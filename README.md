@@ -6,7 +6,8 @@
 <p>Ценю в людях желание получать новые знания, идейность и доброту.</p>
 <br />
 <p>✨Знания которыми на данный момент распологаю✨</p>
-<h5>Основной стек</h5>
+<hr />
+<h4>Основной стек</h4>
 <b>JavaScript</b>,  
 <b>TypeScript</b>,
 <b>Node.js</b>, 
@@ -16,30 +17,30 @@
 <br/>
 <b>React</b>, 
 <b>React native</b>, 
-<b>redux</b>, 
+<b>Redux</b>, 
 <b>Bootstrap</b>,
 <br/>
 <hr />
-<h5>Базы данных</h5>
+<h4>Базы данных</h4>
 <b>SQL</b>, 
 <b>MySQL</b>, 
 <b>PostgreSQL</b>
 <br />
 <hr />
-<h5>Верстка</h5>
+<h4>Верстка</h4>
 <b>Sass</b>, 
 <b>CSS3</b>
 <b>HTML5</b>,
 <b>Bootstrap</b>,
 <br />
 <hr />
-<h5>Не актуально, но знаю</h5>
+<h4>Не актуально, но знаю</h4>
 <b>PHP</b>,
 <b>Yii2</b>,
 <b>CMS Wordpress</b>
 <br />
 <hr />
-<h5>Дополнительно</h5>
+<h4>Дополнительно</h4>
 <b>Linux (Ubuntu, Centos)</b>,
 <b>Docker</b>,
 <b>Git</b>
