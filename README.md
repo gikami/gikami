@@ -7,7 +7,7 @@
 <br />
 <p>✨Знания которыми на данный момент распологаю✨</p>
 <hr />
-<h4>Основной стек</h4>
+<h3>Основной стек</h3>
 <b>JavaScript</b>,  
 <b>TypeScript</b>,
 <b>Node.js</b>, 
@@ -18,29 +18,29 @@
 <b>React</b>, 
 <b>React native</b>, 
 <b>Redux</b>, 
-<b>Bootstrap</b>,
+<b>Bootstrap</b>
 <br/>
 <hr />
-<h4>Базы данных</h4>
+<h3>Базы данных</h3>
 <b>SQL</b>, 
 <b>MySQL</b>, 
 <b>PostgreSQL</b>
 <br />
 <hr />
-<h4>Верстка</h4>
+<h3>Верстка</h3>
 <b>Sass</b>, 
 <b>CSS3</b>
 <b>HTML5</b>,
 <b>Bootstrap</b>,
 <br />
 <hr />
-<h4>Не актуально, но знаю</h4>
+<h3>Не актуально, но знаю</h3>
 <b>PHP</b>,
 <b>Yii2</b>,
 <b>CMS Wordpress</b>
 <br />
 <hr />
-<h4>Дополнительно</h4>
+<h3>Дополнительно</h3>
 <b>Linux (Ubuntu, Centos)</b>,
 <b>Docker</b>,
 <b>Git</b>
